@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dncampo+lewagon@gmail.com
+	name = David Campo
